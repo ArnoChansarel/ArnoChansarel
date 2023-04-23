@@ -1,11 +1,9 @@
-<h1 align="center">:sunflower: :sunflower: :sunflower: Hey, I'm Arno :sunflower: :sunflower: :sunflower:</h1>
+<h1 align="center">:sunflower: :sunflower: :sunflower:  Hey, I'm Arno  :sunflower: :sunflower: :sunflower:</h1>
 <h3 align="center">I'm a student at 19 School, Belgium (42 Network)</h3>
-<h4 align="center">📫 Reach me -> **chansarelarno@gmail.com**</h4>
 
 - 🔭 I’m currently working on [cub3D](https://github.com/ArnoChansarel/cub3D)
 
-- 🌱 I’m currently learning **C++ and Python for Machine Learning**
-
+- 🌱 Learning :**C++ and Python for Machine Learning**
 
 
 <h3 align="left">Connect with me:</h3>
