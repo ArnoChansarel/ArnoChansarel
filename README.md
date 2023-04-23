@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arno</h1>
-<h3 align="center">A student at 19 School, Belgium (42 Network)</h3>
+<h1 align="center">:sunflower: :sunflower: :sunflower: Hey, I'm Arno :sunflower: :sunflower: :sunflower:</h1>
+<h3 align="center">I'm a student at 19 School, Belgium (42 Network)</h3>
 
 - 🔭 I’m currently working on [cub3D](https://github.com/ArnoChansarel/cub3D)
 
