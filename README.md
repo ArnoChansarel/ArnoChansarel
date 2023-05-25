@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [cub3D](https://github.com/ArnoChansarel/cub3D)
 
-- 🌱 Learning :**C++ and Python for Machine Learning**
+- 🌱 Learning :**C++ and Python**
 
 
 <h3 align="left">Connect with me:</h3>
