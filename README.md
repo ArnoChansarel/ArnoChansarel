@@ -1,5 +1,5 @@
 ### Hey, I'm Arno ! I'm a student at 19 School, Belgium (42 Network).<br />
-🔭 I’m currently working on [cub3D](https://github.com/ArnoChansarel/cub3D)<br />
+<!--🔭 I’m currently working on [cub3D](https://github.com/ArnoChansarel/cub3D)<br />-->
 🌱 Learning :**C++ and Python**
 
 ----
