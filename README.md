@@ -1,6 +1,16 @@
 ### Hey, I'm Arno ! I'm a student at 19 School, Belgium (42 Network).<br />
 <!--🔭 I’m currently working on [cub3D](https://github.com/ArnoChansarel/cub3D)<br />-->
-<!--🌱 Learning :**Django, C++ and Rust**-->
+<!-- Learning :**Django, C++ and Rust**-->
+
+
+🌱 I’m currently pursuing a part-time specialized Master's degree in Information Systems and Networks at School 19, where I am delving deeper into reverse engineering, compilers, and advanced cybersecurity concepts. This program is equipping me with the skills to analyze and secure complex systems while expanding my expertise in low-level programming and system vulnerabilities.
+
+💡 Skills & Technologies:
+
+ - Programming Languages: C, C++, Python (Django), JavaScript, HTML/CSS, Assembly
+ - Development Tools: Git, Docker
+ - Concepts: Object-Oriented Programming (OOP), SQL Databases, Networking Fundamentals
+
 
 ----
 
