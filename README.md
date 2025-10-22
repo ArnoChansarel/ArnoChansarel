@@ -3,11 +3,9 @@
 
 I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/arnaudchansarel)
-[![TryHackMe]([![tryhackme stats](https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png))](https://tryhackme.com/p/Arnalove)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arnaudchansarel)
+[![tryhackme stats](https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png))](https://tryhackme.com/p/Arnalove)
 
-
-[![tryhackme stats](https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png)
 
 ---
 
