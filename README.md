@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F763&width=435&lines=Hi%2C+I'm+Arno+!+Let's+connect+%3F" alt="Typing SVG"/>
 </a>
 
-
-
-Hey ! I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
 <div align="left">
   <a href="https://tryhackme.com/p/Arnalove">
     <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe"/>
   </a>
 </div>
+
+
+Hey ! I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
 
 [![MyLinkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arnaudchansarel)
 
