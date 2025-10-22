@@ -3,9 +3,9 @@
 </a>
 <div align="right">
   <a href="https://tryhackme.com/p/Arnalove">
-    <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe" width="40"/>
+    <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe"/>
   </a>
-
+</div>
 
 
 I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
