@@ -12,7 +12,9 @@ Hey ! I'm a junior cybersecurity analyst with experience in network defense and 
  
 <div align="center">
   <p>
-    [![MyLinkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arnaudchansarel)
+    <a href="https://www.linkedin.com/in/arnaudchansarel">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="MyLinkedin">
+    </a>
   </p>
 </div>
 
