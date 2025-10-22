@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F763&width=435&lines=Hi%2C+I'm+Arno+!+Let's+connect+%3F" alt="Typing SVG"/>
 </a>
 
-<div align="left">
+<div align="right">
   <a href="https://tryhackme.com/p/Arnalove">
     <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe"/>
   </a>
