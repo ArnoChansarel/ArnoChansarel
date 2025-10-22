@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F763&width=435&lines=Hi%2C+I'm+Arno+!+Let's+connect+%3F)](https://git.io/typing-svg) [![tryhackme stats](https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png))](https://tryhackme.com/p/Arnalove)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F763&width=435&lines=Hi%2C+I'm+Arno+!+Let's+connect+%3F)](https://git.io/typing-svg)             [![tryhackme stats](https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png))](https://tryhackme.com/p/Arnalove)
 
 I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
 
