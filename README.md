@@ -7,11 +7,11 @@
   <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe"/>
 </a>
 
-<br><br> <p>
+<br> <p>
   Hey ! I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
 </p>
 
-<br><br><div align="center">
+<br><div align="center">
   <p>
     <a href="https://www.linkedin.com/in/arnaudchansarel">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="MyLinkedin">
