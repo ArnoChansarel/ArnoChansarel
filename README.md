@@ -1,27 +1,53 @@
-### Hey, I'm Arno ! I'm a student at 19 School, Belgium (42 Network).<br />
-<!--🔭 I’m currently working on [cub3D](https://github.com/ArnoChansarel/cub3D)<br />-->
-<!-- Learning :**Django, C++ and Rust**-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=There's+no+place+like+127.0.0.1&color=41d923)](https://git.io/typing-svg)
 
 
-🌱 I’m currently pursuing a part-time specialized Master's degree in Information Systems and Networks at School 19, where I am delving deeper into reverse engineering, compilers, and advanced cybersecurity concepts. This program is equipping me with the skills to analyze and secure complex systems while expanding my expertise in low-level programming and system vulnerabilities.
+![tryhackme stats](https://raw.githubusercontent.com/<Arnalove>/<Arnalove>/master/assets/thm_propic.png)
 
-💡 Skills & Technologies:
+---
 
- - Programming Languages: C, C++, Python (Django), JavaScript, HTML/CSS, Assembly
- - Development Tools: Git, Docker
- - Concepts: Object-Oriented Programming (OOP), SQL Databases, Networking Fundamentals
+## 💻 What I Do
 
+My expertise bridges network defense and low-level system understanding, demonstrated through practical project work:
 
+### 🛡️ Security Operations & Threat Hunting
+* **SIEM Configuration:** Proficient in **Splunk** and the **ELK Stack** for centralized log analysis, alert creation, dashboarding, and security monitoring.
+* **Network Intrusion Detection:** Performed traffic analysis and deployed detection rules using **Snort**, **Zeek**, and **Wireshark**.
+* **Host Monitoring:** Utilized tools like **Wazuh**, **Sysmon**, and **Osquery** to implement Host Intrusion Detection System (HIDS) capabilities on Linux environments.
 
-----
+### 💡 Threat Intelligence & Automation
+* **Threat Intelligence Pipeline:** Engineered a closed-loop TI solution routing alerts from **Snort/Zeek** into **Splunk**, with two-way integration to **OpenCTI** for automated sighting and threat enrichment.
+* **Intelligence Tools:** Experienced with **MITRE ATT&CK**, **Yara**, and **MISP** for threat context and rule creation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arnaud chanasarel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaud chanasarel" height="30" width="40" /></a>
-<a href="https://fb.com/arno chansarel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arno chansarel" height="30" width="40" /></a>
-</p>
+### 🔧 Systems & Low-Level Programming
+* **Linux HIDS Toolkit:** Developed a Bash-based toolkit that leverages system monitoring and custom **YARA rules** to simulate and report suspicious activity on a Linux host.
+* **Core Systems Programming:** Completed projects in **C** and **C++** focusing on fundamental operating system components (shell implementation, memory allocation, network utilities).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h1 align="center">:sunflower: :sunflower: :sunflower:</h1>
+## 🚀 My Projects
+
+These projects showcase my ability to apply complex technical concepts in real-world scenarios:
+
+| Project Title | Core Technologies | Description |
+| :--- | :--- | :--- |
+| **Threat Intelligence Pipeline** | OpenCTI, Splunk, Zeek, Snort, Caldera | Emulated attacks with Caldera and built a fully integrated TI pipeline for automated detection, alerting, and sighting feedback. |
+| **Linux HIDS Toolkit** | Bash, YARA, Sysmon/Logging | A custom host-based intrusion detection script for Linux focused on detecting and reporting suspicious activity via log and process analysis. |
+| **Limonshello (C Shell)** | C, Unix System Calls | Implementation of a lightweight Unix shell, including process management, command parsing, piping, and redirection. |
+| **Custom HTTP Server** | C++, Networking | Low-level implementation of an HTTP server, focusing on networking protocols and handling client requests. |
+| **Low-Level Utilities** | C | Reimplementation of core libc functions (e.g., `malloc`), and network tools (e.g., `ping`) to deepen understanding of system fundamentals. |
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Technologies / Concepts |
+| :--- | :--- |
+| **SIEM & Monitoring** | Splunk, ELK Stack, Wazuh, Sysmon, Osquery |
+| **Detection & Analysis** | Snort, Zeek, Wireshark, Suricata |
+| **Threat Intelligence** | OpenCTI, MITRE ATT&CK, Yara, MISP |
+| **Programming** | Python, C, C++, Bash, PowerShell, SQL |
+| **DevOps & OS** | Docker, Git, Linux, Windows Server, Networking |
+
+---
+
