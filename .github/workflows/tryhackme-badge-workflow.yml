@@ -5,6 +5,10 @@ on:
     # Make it run every 24 hour
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   tryhackme-badge-update:
     name: Update this repo's tryhackme badge with the latest tryhackme image badge
@@ -15,3 +19,4 @@ jobs:
         with:
           username: "Arnalove"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          branch: "main"
