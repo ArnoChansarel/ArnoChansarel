@@ -7,9 +7,10 @@
   <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe"/>
 </a>
 
- 
-Hey ! I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
- 
+<p style="margin-top: 25px; margin-bottom: 25px;">
+  Hey ! I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
+</p> 
+
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/arnaudchansarel">
