@@ -10,6 +10,7 @@ Hey ! I'm a junior cybersecurity analyst with experience in network defense and 
     <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe"/>
   </a>
 </div>
+
 [![MyLinkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arnaudchansarel)
 
 
