@@ -1,27 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=There's+no+place+like+127.0.0.1&color=41d923)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F763&width=435&lines=Hi%2C+I'm+Arno+!+Let's+connect+%3F)](https://git.io/typing-svg)
 
+I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
 
 ![tryhackme stats](https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png)
-
----
-
-## 💻 What I Do
-
-My expertise bridges network defense and low-level system understanding, demonstrated through practical project work:
-
-### 🛡️ Security Operations & Threat Hunting
-* **SIEM Configuration:** Proficient in **Splunk** and the **ELK Stack** for centralized log analysis, alert creation, dashboarding, and security monitoring.
-* **Network Intrusion Detection:** Performed traffic analysis and deployed detection rules using **Snort**, **Zeek**, and **Wireshark**.
-* **Host Monitoring:** Utilized tools like **Wazuh**, **Sysmon**, and **Osquery** to implement Host Intrusion Detection System (HIDS) capabilities on Linux environments.
-
-### 💡 Threat Intelligence & Automation
-* **Threat Intelligence Pipeline:** Engineered a closed-loop TI solution routing alerts from **Snort/Zeek** into **Splunk**, with two-way integration to **OpenCTI** for automated sighting and threat enrichment.
-* **Intelligence Tools:** Experienced with **MITRE ATT&CK**, **Yara**, and **MISP** for threat context and rule creation.
-
-### 🔧 Systems & Low-Level Programming
-* **Linux HIDS Toolkit:** Developed a Bash-based toolkit that leverages system monitoring and custom **YARA rules** to simulate and report suspicious activity on a Linux host.
-* **Core Systems Programming:** Completed projects in **C** and **C++** focusing on fundamental operating system components (shell implementation, memory allocation, network utilities).
 
 ---
 
@@ -50,4 +32,6 @@ These projects showcase my ability to apply complex technical concepts in real-w
 | **DevOps & OS** | Docker, Git, Linux, Windows Server, Networking |
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=22F763&width=435&lines=There's+no+place+like+127.0.0.1...)](https://git.io/typing-svg)
 
