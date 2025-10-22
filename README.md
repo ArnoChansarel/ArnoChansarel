@@ -8,25 +8,20 @@
 </a>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F763&width=435&lines=Hi%2C+I'm+Arno+!+Let's+connect+%3F" alt="Typing SVG"/>
-  </a>
-
-  <a href="https://tryhackme.com/p/Arnalove">
-    <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe"/>
-  </a>
-</div>
-
-<div style="overflow: auto; width: 100%;">
-  <a href="https://git.io/typing-svg" style="float: left;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F763&width=435&lines=Hi%2C+I'm+Arno!+Let's+connect+%3F" alt="Typing SVG"/>
-  </a>
-
-  <a href="https://tryhackme.com/p/Arnalove" style="float: right;">
-    <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F763&width=435&lines=Hi%2C+I'm+Arno+!+Let's+connect+%3F" alt="Typing SVG"/>
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://tryhackme.com/p/Arnalove">
+        <img src="https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png" alt="TryHackMe"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 Hey ! I'm a junior cybersecurity analyst with experience in network defense and low-level system programming. Background in C/C++ and web development, with hands-on work in security monitoring, threat detection, and automation.
 
