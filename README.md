@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=There's+no+place+like+127.0.0.1&color=41d923)](https://git.io/typing-svg)
 
 
-![tryhackme stats](https://raw.githubusercontent.com/<Arnalove>/<Arnalove>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/ArnoChansarel/ArnoChansarel/master/assets/thm_propic.png)
 
 ---
 
